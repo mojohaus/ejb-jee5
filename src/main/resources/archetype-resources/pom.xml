@@ -55,7 +55,6 @@
       </plugin>
 
     </plugins>
-    <!--TODO keep or remove-->
     <finalName>${artifactId}</finalName>
   </build>
 </project>
