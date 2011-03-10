@@ -7,7 +7,7 @@
   <version>${version}</version>
   <packaging>ejb</packaging>
 
-  <name>${artifactId} JEE5 EJB</name>
+  <name>${artifactId}</name>
   <url>http://maven.apache.org</url>
 
   <dependencies>
@@ -57,6 +57,5 @@
       </plugin>
 
     </plugins>
-    <finalName>${artifactId}</finalName>
   </build>
 </project>
